@@ -12,7 +12,7 @@
 Available For Rat
 
 - [ ]  Anti-Delete
- - [ ] Screen Control
+- [Screen Control ] Screen Control
 - [ ]  Format Phone
  Phone Call
  Message Toaster
